@@ -1,0 +1,17 @@
+https://stackoverflow.com/questions/32460920/making-a-field-unique-in-ecto
+
+https://hexdocs.pm/elixir/Enum.html
+
+https://stackoverflow.com/questions/49472391/how-to-flatten-a-list-of-maps
+
+https://stackoverflow.com/questions/48378248/convert-list-of-maps-into-one-single-map
+
+https://discuss.reactjs.org/t/performance-problems-with-react-when-using-a-big-list/3432/6
+
+https://auth0.com/blog/cookies-vs-tokens-definitive-guide/
+
+https://redux.js.org/
+
+https://www.thesitewizard.com/css/mobile-friendly-responsive-design.shtml
+
+
